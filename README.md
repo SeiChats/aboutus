@@ -2,7 +2,7 @@
 - 👀 We are building for the public
 - 🌱 Building on the Sei Network primarily, and coding frameworks like Next JS, Solidity, Fast API, Postgres, etc 
 - 💞️ I’m looking to collaborate with developers looking to live projects
-- 📫 How to reach us? - Right now : seichat@gmail.com
+- 📫 How to reach us? - Right now? seichatss@gmail.com
 - ⚡ Fun fact: We're super friendly here!!!!
 
 <!---
